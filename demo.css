@@ -1,0 +1,29 @@
+    .heading{
+    text-align: right;
+    margin-top: -12%;
+}
+#logo{
+    position:relative;
+    height: 100px;
+}
+#line{
+    border-bottom: 3px solid black;
+}
+#info{
+    margin 0% 20%;
+    width:1024px;
+    height:500px;
+}
+.images img{
+    width: 305px;
+    height:200px;
+    padding-right: 30px; 
+}
+#pos1{
+    padding:400px;
+    margin-top: -46%;
+}
+#pos2{
+    padding:800px;
+    margin-top:-124%;
+}
